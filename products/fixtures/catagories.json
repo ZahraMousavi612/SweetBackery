@@ -1,0 +1,26 @@
+[
+    {
+        "pk": 1,
+        "model": "products.category",
+        "fields": {
+            "name": "cake",
+            "friendly_name": "Cake"
+        }
+    },
+    {
+        "pk": 2,
+        "model": "products.category",
+        "fields": {
+            "name": "cupcake",
+            "friendly_name": "Cupcake"
+        }
+    },
+    {
+        "pk": 3,
+        "model": "products.category",
+        "fields": {
+            "name": "cookies",
+            "friendly_name": "Cookies"
+        }
+    }
+]

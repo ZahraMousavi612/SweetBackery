@@ -1,0 +1,282 @@
+[
+    {
+        "pk": 1,
+        "model": "products.product",
+        "fields": {
+            "sku": "CAK001",
+            "name": "Black Forest Cake",
+            "description": "Several layers of chocolate cake, with cherry filling, with lashings of whipped cream between each layer. The cake is then decorated with piped, whipped cream, maraschino cherries, and chocolate shavings.",
+            "price": 13.70,
+            "category": "1",
+            "rating": 4.7,
+            "image_url": "media/black-forest-cake-min.jpg",
+            "image": "black-forest-cake-min.jpg"
+        }
+    },
+    {
+        "pk": 2,
+        "model": "products.product",
+        "fields": {
+            "sku": "CAK002",
+            "name": "Mango Fruit Cake",
+            "description": "[Eggless]. Bite into SweetBackery's artisanal Mango fruit cake topped with tasty mangoes and our fresh cream made right after the order is placed.",
+            "price": 12.68,
+            "category": "1",
+            "rating": 3.9,
+            "image_url": "media/mango-fruit-cake-min.jpg",
+            "image": "mango-fruit-cake-min.jpg"
+        }
+    },
+    {
+        "pk": 3,
+        "model": "products.product",
+        "fields": {
+            "sku": "CAK003",
+            "name": "Chocolate Truffle Cake",
+            "description": "If it were easy to resist, it would not be called chocolate cake. Try our Chocolate Truffle Cake to taste real freshness. All our cakes are made fresh and with love, with no added preservatives, all-natural, and best-quality ingredients safe for children and adults alike.",
+            "price": 12.88,
+            "category": "1",
+            "rating": 4.2,
+            "image_url": "media/chocolate-truffle-cake-min.jpg",
+            "image": "chocolate-truffle-cake-min.jpg"
+        }
+    },
+    {
+        "pk": 4,
+        "model": "products.product",
+        "fields": {
+            "sku": "CAK004",
+            "name": "Vanilla Cake",
+            "description": "Taste this classic vanilla cake, which is loved by everyone for its simple texture and classy taste. This cake is made with vanilla sponge and cream delightfully. All our cakes are made fresh and with love, with no added preservatives, all-natural, and best-quality ingredients safe for children and adults.",
+            "price": 12.52,
+            "category": "1",
+            "rating": 4.6,
+            "image_url": "media/vanilla-cake-min.jpg",
+            "image": "vanilla-cake-min.jpg"
+        }
+    },
+    {
+        "pk": 5,
+        "model": "products.product",
+        "fields": {
+            "sku": "CAK005",
+            "name": "Kaju Barfi Mini Cake",
+            "description": "[Eggless]. 300gms. SweetBackery's signature Kaju Barfi Cake - A traditional Indian Dessert combined with western dessert to offer you an unmatched taste.",
+            "price": 8.44,
+            "category": "1",
+            "rating": 3.5,
+            "image_url": "media/kaju-barfi-mini-cake-min.jpg",
+            "image": "kaju-barfi-mini-cake-min.jpg"
+        }
+    },
+    {
+        "pk": 6,
+        "model": "products.product",
+        "fields": {
+            "sku": "CAK006",
+            "name": "Fruit Cake",
+            "description": "Fruits artfully arranged on our freshly made cakes to offer you an unmatched taste. Don't compromise on your special occasions. All our cakes are made fresh and with love, with no added preservatives, all-natural, and best-quality ingredients safe for children and adults.",
+            "price": 17.23,
+            "category": "1",
+            "rating": 4.8,
+            "image_url": "media/fruit-cake-min.jpg",
+            "image": "fruit-cake-min.jpg"
+        }
+    },
+    {
+        "pk": 7,
+        "model": "products.product",
+        "fields": {
+            "sku": "CAK007",
+            "name": "Death by Chocolate Mini Cake",
+            "description": "[Eggless]. 300gms. Did you know chocolate is a powerful antioxidant? Improves blood flow and lowers blood pressure. So why wait, try our premium chocolate cake. We stand by our promise of sweeter celebrations with SweetBakery.",
+            "price": 7.40,
+            "category": "1",
+            "rating": 3.7,
+            "image_url": "media/death-by-chocolate-mini-cake-min.jpg",
+            "image": "death-by-chocolate-mini-cake-min.jpg"
+        }
+    },
+    {
+        "pk": 8,
+        "model": "products.product",
+        "fields": {
+            "sku": "CAK008",
+            "name": "Red Velvet Cake",
+            "description": "A magic happens when red velvet flavor and vanilla sponge come together. And we created this for you. We stand by our promise of sweeter celebrations with SweetBackery.",
+            "price": 16.42,
+            "category": "1",
+            "rating": 4.5,
+            "image_url": "media/red-velvet-cake-min.jpg",
+            "image": "red-velvet-cake-min.jpg"
+        }
+    },
+    {
+        "pk": 9,
+        "model": "products.product",
+        "fields": {
+            "sku": "CCP001",
+            "name": "Vanilla Cupcakes - 6 Pc",
+            "description": "Cupcakes are always the best dessert to complete your day, try our classy vanilla cupcake (pack of 6 pieces) and celebrate the moments.",
+            "price": 8.22,
+            "category": "2",
+            "rating": 4.6,
+            "image_url": "media/vanilla-cupcakes-6-pc-min.jpg",
+            "image": "Vanilla Cupcake"
+        }
+    },
+    {
+        "pk": 10,
+        "model": "products.product",
+        "fields": {
+            "sku": "CCP002",
+            "name": "Red Velvet Cupcakes - 6 Pc",
+            "description": "Who will ignore this beautiful and delicious red velvet cupcakes, a day without cupcake is incomplete. Make your day special by our red velvet cupcakes (Pack of 6 Pieces) and celebrate the moments.",
+            "price": 8.22,
+            "category": "2",
+            "rating": 4.8,
+            "image_url": "media/red-velvet-cupcakes-6-pc-min.jpg",
+            "image": "Red Velvet Cupcake"
+        }
+    },
+    {
+        "pk": 11,
+        "model": "products.product",
+        "fields": {
+            "sku": "CCP003",
+            "name": "Assorted Cupcakes - 6 Pc",
+            "description": "Cupcakes are always best to complete your day, try our delicious set of red velvet, chocolate and vanilla cupcakes and make your day special.",
+            "price": 6.56,
+            "category": "2",
+            "rating": 4.9,
+            "image_url": "media/assorted-cupcakes-6-pc-min.jpg",
+            "image": "Assorted Cupcake"
+        }
+    },
+    {
+        "pk": 12,
+        "model": "products.product",
+        "fields": {
+            "sku": "CCP004",
+            "name": "Chocolate Cupcake",
+            "description": "[Eggless]. Our cupcakes are a delight to all your five senses. Chocolate in particular is irresistible.",
+            "price": 1.20,
+            "category": "2",
+            "rating": 4.7,
+            "image_url": "media/chocolate-cupcake-min.jpg",
+            "image": "Chocolate Cupcake"
+        }
+    },
+    {
+        "pk": 13,
+        "model": "products.product",
+        "fields": {
+            "sku": "CCP005",
+            "name": "I Love You My Sweet Heart Cupcakes",
+            "description": "There is nothing a cupcake can not solve. Indulge in our soft and fresh cupcakes to amaze your sweethearts. Just know that our cupcakes are a delight to all our senses. We stand by our promise, of sweeter celebrations with SweetBackery.(6 Serving, 612 calories, 6gms Protein, 42gms Carbs).",
+            "price": 7.46,
+            "category": "2",
+            "rating": 4.5,
+            "image_url": "media/i-love-you-my-sweet-heart-cupcakes-min.jpg",
+            "image": "Special Cupcake"
+        }
+    },
+    {
+        "pk": 14,
+        "model": "products.product",
+        "fields": {
+            "sku": "CCP006",
+            "name": "Black Forest cupcake",
+            "description": "[Eggless]. Dream as if you'll live forever, eat Cupcakes as if you'll die today. Our cupcakes will definitely cheer you up.",
+            "price": 1.20,
+            "category": "2",
+            "rating": 4.9,
+            "image_url": "media/black-forest-cupcake-min.jpg",
+            "image": "Black Forest Cupcake"
+        }
+    },
+    {
+        "pk": 15,
+        "model": "products.product",
+        "fields": {
+            "sku": "CCP007",
+            "name": "Crunchy Butterscotch Cupcake",
+            "description": "[Eggless]. Happiness is only one cupcake away. Our cupcakes are a delight to all your five senses.",
+            "price": 1.20,
+            "category": "2",
+            "rating": 4.7,
+            "image_url": "media/crunchy-butterscotch-cupcake-min.jpg",
+            "image": "Butterscotch Cupcake"
+        }
+    },
+    {
+        "pk": 16,
+        "model": "products.product",
+        "fields": {
+            "sku": "CCP008",
+            "name": "Strawberry Cupcake",
+            "description": "[Eggless]. There's nothing a cupcake can't solve especially our strawberry cupcake. Indulge in our soft, creamy cupcakes.",
+            "price": 1.20,
+            "category": "2",
+            "rating": 4.7,
+            "image_url": "media/strawberry-cupcake-min.jpg",
+            "image": "Strawberry Cupcake"
+        }
+    },
+    {
+        "pk": 17,
+        "model": "products.product",
+        "fields": {
+            "sku": "COO001",
+            "name": "Red Velvet Cookie",
+            "description": "Our twist on the classic Red Velvet recipe we all know and love – a chewy white chocolate cookie with a gooey centre, drizzled with even more white chocolate. Our cookies are freshly baked to order from scratch at each of our bakeries using quality ingredients, and we pride ourselves in not using preservatives.",
+            "price": 20.63,
+            "category": "3",
+            "rating": 4.8,
+            "image_url": "media/red-velvet-and-white-chocolate-cookies-min.jpg",
+            "image": "Red Velvet Cookie"
+        }
+    },
+    {
+        "pk": 18,
+        "model": "products.product",
+        "fields": {
+            "sku": "COO002",
+            "name": "Double Chocolate Chip Cookies",
+            "description": "A rich, decadent chocolate cookie with gooey chocolate chips.",
+            "price": 20.63,
+            "category": "3",
+            "rating": 4.9,
+            "image_url": "media/double-chocolate-chip-cookies-min.jpg",
+            "image": "Double Chocolate Chip Cookies"
+        }
+    },
+    {
+        "pk": 19,
+        "model": "products.product",
+        "fields": {
+            "sku": "COO003",
+            "name": "Chocolate Chip Cookies",
+            "description": "Everyone’s favourite – we pack our chocolate chip cookie with milk chocolate chips and drizzle with even more milk chocolate.",
+            "price": 20.63,
+            "category": "3",
+            "rating": 4.7,
+            "image_url": "media/chocolate-chip-cookies-min.jpg",
+            "image": "Chocolate Chip Cookies"
+        }
+    },
+    {
+        "pk": 20,
+        "model": "products.product",
+        "fields": {
+            "sku": "COO004",
+            "name": "Birthday Cookie",
+            "description": "A party in a cookie! The perfect way to celebrate a birthday with a little more sprinkle.",
+            "price": 22.72,
+            "category": "3",
+            "rating": 4.9,
+            "image_url": "media/birthday-cookies-min.jpg",
+            "image": "Birthday Cookie"
+        }
+    }
+]
