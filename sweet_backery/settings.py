@@ -188,3 +188,4 @@ STRIPE_PUBLIC_KEY = os.getenv('STRIPE_PUBLIC_KEY')
 STRIPE_WH_SECRET = os.getenv('STRIPE_WH_SECRET', '')
 stripe.api_key = STRIPE_SECRET_KEY
 stripe.api_version = '2020-08-27'
+DEFAULT_FROM_EMAIL = 'sweetbackery@example.com'
