@@ -31,6 +31,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'sweet-backery-app-ec21e61f167c.herokuapp.com',
+    'sweet-backery-app-ec21e61f167c.herokuapp.com',
     '8000-zahramousavi612-homeease-igsom1stpx.us2.codeanyapp.com'
     ]
 
