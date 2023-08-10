@@ -30,8 +30,8 @@ SECRET_KEY = 'django-insecure--^ob-&^pl!c89c!1y178$arrwwnsbe1muh(p79wqudx#yaqu@0
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    '8000-zahramousavi612-homeease-igsom1stpx.us2.codeanyapp.com', 
-    'sweet-backery-app.heroku.com'
+    'sweet-backery-app-ec21e61f167c.herokuapp.com',
+    '8000-zahramousavi612-homeease-igsom1stpx.us2.codeanyapp.com'
     ]
 
 
