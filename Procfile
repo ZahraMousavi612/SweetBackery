@@ -1,1 +1,1 @@
-web: gunicorn sweet-backery-app.wsgi:application
+web: gunicorn sweet_backery.wsgi:application
