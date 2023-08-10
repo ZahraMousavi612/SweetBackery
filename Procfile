@@ -1,0 +1,1 @@
+web: gunicorn sweet-backery-app.wsgi:application
