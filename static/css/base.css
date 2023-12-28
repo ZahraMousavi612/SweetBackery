@@ -3,7 +3,7 @@ html {
 }
 
 body {
-    background: url('/media/sweetbakery_home.jpg') no-repeat center center fixed;
+    background: url('https: //images.pexels.com/photos/5713710/pexels-photo-5713710.jpeg?auto=compress&cs=tinysrgb&w=600') no-repeat center center fixed;
     background-size: cover;
     height: calc(100vh - 164px);
     color: #555;
